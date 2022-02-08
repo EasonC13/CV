@@ -5,7 +5,7 @@ Vue.component('section-contact', {
       }
     },
     template: `<div class="section" id="contact">
-    <div class="cc-contact-information" style="background-image: url('http://127.0.0.1:5500/images/staticmap.png')">
+    <div class="cc-contact-information" style="background-image: url('images/staticmap.png')">
       <div class="container">
         <div class="cc-contact">
           <div class="row">

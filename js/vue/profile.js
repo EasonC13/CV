@@ -7,10 +7,10 @@ Vue.component('section-profile', {
     template: `<div class="profile-page">
     <div class="wrapper">
       <div class="page-header page-header-small" filter-color="green">
-        <div class="page-header-image" data-parallax="true" style="background-image: url('http://127.0.0.1:5500/images/cc-bg-1.jpg')"></div>
+        <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg')"></div>
         <div class="container">
           <div class="content-center">
-            <div class="cc-profile-image"><a href="#"><img src="http://127.0.0.1:5500/images/Eason_Head.png" alt="Image"/></a></div>
+            <div class="cc-profile-image"><a href="#"><img src="images/Eason_Head.png" alt="Image"/></a></div>
             <div class="h2 title">Eason Chen</div>
             <p class="category text-white">Student, Researcher, Programmer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
           </div>

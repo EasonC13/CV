@@ -17,7 +17,7 @@ Vue.component('section-reference', {
           <div class="carousel-inner">
             <div class="carousel-item active">
               <div class="row">
-                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="http://127.0.0.1:5500/images/reference-image-1.jpg" alt="Image"/>
+                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-1.jpg" alt="Image"/>
                   <div class="h5 pt-2">Aiyana</div>
                   <p class="category">CEO / WEBM</p>
                 </div>
@@ -28,7 +28,7 @@ Vue.component('section-reference', {
             </div>
             <div class="carousel-item">
               <div class="row">
-                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="http://127.0.0.1:5500/images/reference-image-2.jpg" alt="Image"/>
+                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-2.jpg" alt="Image"/>
                   <div class="h5 pt-2">Braiden</div>
                   <p class="category">CEO / Creativem</p>
                 </div>
@@ -39,7 +39,7 @@ Vue.component('section-reference', {
             </div>
             <div class="carousel-item">
               <div class="row">
-                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="http://127.0.0.1:5500/images/reference-image-3.jpg" alt="Image"/>
+                <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-3.jpg" alt="Image"/>
                   <div class="h5 pt-2">Alexander</div>
                   <p class="category">CEO / Webnote</p>
                 </div>
