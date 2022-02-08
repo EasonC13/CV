@@ -22,13 +22,35 @@ Vue.component('section-research-experience', {
         <div class="row">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-experience-header">
+              <p>2021/6 - 2022/2</p>
+              <div class="h5">MOST</div>
+            </div>
+          </div>
+          <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+            <div class="card-body">
+              <div><span class="h5">Undergraduate Research Project Principal Investigator</span></div>
+              <p>Ministry of Science and Technology at Taiwan</p>
+              <ul>
+                <li>Advisor: Prof. Yuen-Hsien Tseng</li>
+                <li>Building a natural language text generation chatbot with multi-reply and custom avatars with chosen emotion. Then evaluate the user experience of such design.</li>
+                <li>Research results have been published to TAICHI 2021 and CHI 2022 as paper and demo.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="row">
+          <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+            <div class="card-body cc-experience-header">
               <p>2019/4 - Now</p>
-              <div class="h5">National Taiwan Normal University</div>
+              <div class="h5">NTNU</div>
             </div>
           </div>
           <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body">
               <div><span class="h5">Research Assistant</span></div>
+              <p>National Taiwan Normal University</p>
               <ul>
                 <li>Prof. Yuen-Hsien Tseng (2020-2022): Prof. Tseng is my thesis advisor. We closely work together in his lab “Artificial Intelligence and Text Mining Laboratory”. Aside from coding and papers, I'm responsible for Nginx, CUDA and Docker environments, too.</li>
                 <li>Prof. Hsueh-Chih Chen (2021): Portable Integrated Data Export Pipeline System.</li>
