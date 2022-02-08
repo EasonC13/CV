@@ -11,49 +11,20 @@ Vue.component('section-education', {
         <div class="row">
           <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body cc-education-header">
-              <p>2013 - 2015</p>
-              <div class="h5">Master's Degree</div>
-            </div>
-          </div>
-          <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-            <div class="card-body">
-              <div class="h5">Master of Information Technology</div>
-              <p class="category">University of Computer Science</p>
-              <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="row">
-          <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-            <div class="card-body cc-education-header">
-              <p>2009 - 2013</p>
+              <p>2018 - 2022</p>
               <div class="h5">Bachelor's Degree</div>
             </div>
           </div>
           <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body">
-              <div class="h5">Bachelor of Computer Science</div>
-              <p class="category">University of Computer Science</p>
-              <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="card">
-        <div class="row">
-          <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
-            <div class="card-body cc-education-header">
-              <p>2007 - 2009</p>
-              <div class="h5">High School</div>
-            </div>
-          </div>
-          <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
-            <div class="card-body">
-              <div class="h5">Science and Mathematics</div>
-              <p class="category">School of Secondary board</p>
-              <p>Euismod massa scelerisque suspendisse fermentum habitant vitae ullamcorper magna quam iaculis, tristique sapien taciti mollis interdum sagittis libero nunc inceptos tellus, hendrerit vel eleifend primis lectus quisque cubilia sed mauris. Lacinia porta vestibulum diam integer quisque eros pulvinar curae, curabitur feugiat arcu vivamus parturient aliquet laoreet at, eu etiam pretium molestie ultricies sollicitudin dui.</p>
+              <div class="h5">National Taiwan Normal University</div>
+              <p class="category">School of Learning Informatics, Program of Learning Sciences</p>
+              <p>
+              My major is Learning Sciences, which is an interdisciplinary undergraduate program, which encompasses a wide range of professional cultivations in several domains such as Computer Science, Information Science, Data Science, Psychology, Social Science and Education.
+                <a href="https://www.upls.ntnu.edu.tw/index.php/en/degree-programs/" target="_blank">More about Learning Sciences</a>
+              </p>
+              <p>I'm an overachiever in school, I received Excellent Student Scholarship at NTNU which chooses only 36 students every year. and my <b>GPA is 4.1/4.3</b> <a href="https://drive.google.com/file/d/1bqrRDn43ec8y203rKzY0Ox44kvaFP3GQ/view" target="_blank">View Transcript</a></p>
+              <p></p>
             </div>
           </div>
         </div>

@@ -6,10 +6,10 @@ Vue.component('section-footer', {
     },
     template: `<footer class="footer">
     <div class="container text-center">
-      <a class="cc-facebook btn btn-link" href="#"><i class="fa fa-facebook fa-2x " aria-hidden="true"></i></a>
-      <a class="cc-twitter btn btn-link " href="#"><i class="fa fa-twitter fa-2x " aria-hidden="true"></i></a>
-      <a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>
-      <a class="cc-instagram btn btn-link" href="#"><i class="fa fa-instagram fa-2x " aria-hidden="true"></i></a>
+      <a class="btn btn-link btn-icon" href="https://www.facebook.com/EasonC13" target="_blank" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a>
+      <a class="btn btn-link btn-icon" href="https://twitter.com/Eason_C13" target="_blank" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a>
+      <a class="btn btn-link btn-icon" href="https://www.linkedin.com/in/easonc13/" target="_blank" rel="tooltip" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a>
+      <a class="btn btn-link btn-icon" href="https://github.com/EasonC13" target="_blank" rel="tooltip" title="Follow me on GitHub"><i class="fa fa-github"></i></a>
     </div>
     <div class="h4 title text-center">Eason Chen</div>
     <div class="text-center text-muted">
