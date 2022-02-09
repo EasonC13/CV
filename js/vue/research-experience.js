@@ -5,7 +5,7 @@ Vue.component('section-research-experience', {
           `<b>Chen, E.</b> (2022). The Effect of Multiple Replies for Natural Language Generation Chatbots. Paper presented at the 2022 CHI Conference.`, 
           `Roche, N., Hernandez, W., <b>Chen, E.</b>, Siméon, J., & Selman, D. (2021). Ergo--a programming language for Smart Legal Contracts. arXiv preprint arXiv:2112.07064.`, 
           `<b>Chen, E.</b>, Tseng, Y.-H., & Lo, K.-P. (2021). Focus Plus: Detect Learner's Distraction by Web Camera in Distance Teaching. Paper presented at the 2021 National Chair Professorship Academic Series: Teaching and Learning in Trans - pandemic Era: Idea Innovation and Practice Transformation`, 
-          `<b>Chen, E.</b>, & Tseng, Y.-H. (2021). A chatbot platform that allow custom avatars and emotions and can provides multiple replies. Demo presented at the Taiwan Computer-Human Interaction. `, 
+          `<b>Chen, E.</b>, & Tseng, Y.-H. (2021). A chatbot platform that allows custom avatars and emotions and can provide multiple replies. Demo presented at the Taiwan Computer-Human Interaction. `, 
           `<b>Chen, E.</b>, Tseng, Y.-H., Chiou, G.-L., & Yuan, C.-W. T. (2021). How the numbers of replies and avatars influence the user experience in Natural Language Generation Chatbot. Paper presented at the Taiwan Computer-Human Interaction.`,
         ],
       }
@@ -32,8 +32,8 @@ Vue.component('section-research-experience', {
               <p>Ministry of Science and Technology at Taiwan</p>
               <ul>
                 <li>Advisor: Prof. Yuen-Hsien Tseng</li>
-                <li>Building a natural language text generation chatbot with multi-reply and custom avatars with chosen emotion. Then evaluate the user experience of such design.</li>
-                <li>Research results have been published to TAICHI 2021 and CHI 2022 as paper and demo.</li>
+                <li>Research results have been published to TAICHI 2021 and CHI 2022.</li>
+                <li>I build a natural language text generation chatbot with multi-reply and custom avatars with chosen emotions. Then evaluate the user experience of such design. My research shows that UX scores improve significantly when responding to users’ utterances with multiple replies.</li>
               </ul>
             </div>
           </div>
@@ -52,9 +52,9 @@ Vue.component('section-research-experience', {
               <div><span class="h5">Research Assistant</span></div>
               <p>National Taiwan Normal University</p>
               <ul>
-                <li>Prof. Yuen-Hsien Tseng (2020-2022): Prof. Tseng is my thesis advisor. We closely work together in his lab “Artificial Intelligence and Text Mining Laboratory”. Aside from coding and papers, I'm responsible for Nginx, CUDA and Docker environments, too.</li>
+                <li>Prof. Yuen-Hsien Tseng (2020-2022): Prof. Tseng is my thesis advisor. We closely work together in his lab, 'Artificial Intelligence and Text Mining Laboratory'. Aside from coding and papers, I'm also responsible for maintaining the server, such as Nginx, CUDA, and Docker environment.</li>
                 <li>Prof. Hsueh-Chih Chen (2021): Portable Integrated Data Export Pipeline System.</li>
-                <li>Prof. Ching-Lin Wu (2020): I built a web platform in FastAPI and Vue for the creative experiment, then built pipeline to transform and analyze the collected data.</li>
+                <li>Prof. Ching-Lin Wu (2020): I built a web platform in FastAPI and Vue for the creative experiment, then built a pipeline to transform and analyze the collected data.</li>
                 <li>Prof. Guo-Li Chiou (2019): We Explore how students solve physics problems. I utilize Python to analyze and transform the eye-tracking data, then plot the statistics result into a graph.</li>
               </ul>
             </div>

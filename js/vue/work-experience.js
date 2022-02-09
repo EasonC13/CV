@@ -18,7 +18,7 @@ Vue.component('section-work-experience', {
           <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
             <div class="card-body">
               <div class="h5">R&D Engineer</div>
-              <p>I'm Building and Testing Blockchain Product in educational field at FiO. My main work is to research on New Blockchain Technology, mainly in IOTA, Ethereum. Then Design and Optimize System Structure of FiO’s product based on my research result. Also, research 3rd party tech to integrate with the product like OpenCerts or Google API. After my research, I host workshops to educate colleagues about new blockchain knowledge.</p>
+              <p>I was building and testing Blockchain products in the educational field at FiO, a Blockchain Startup in Taiwan. My main work is researching New Blockchain Technology, mainly in IOTA and Ethereum. Then Design and Optimize System Structure of FiO’s product based on my research result. Also, I explore 3rd party tech to integrate with the product like OpenCerts or Google API. After my research, I host workshops to educate colleagues about new blockchain knowledge.</p>
             </div>
           </div>
         </div>

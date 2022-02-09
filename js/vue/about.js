@@ -12,8 +12,8 @@ Vue.component('section-about', {
             <div class="card-body">
               <div class="h4 mt-0 title">About</div>
               <p>This is Eason from Taiwan. My name in Chinese is ‘怡升 (I-Sheng)’, meaning ‘rising with joy’. I hope I can have a joyful mind, keep making progress and gain pleasure by doing so.</p>
-              <p>I gain a lot of pleasure in both doing academic research and using coding to solve problems. Therefore, I want to pursue Master or Ph.D. overseas in Computer Science at 2023 Sep in the field of HCI, Blockchain, and AI.</p>
-              <p>I have finished all the credits I required to graduate before 2022 Jan. Then, I plan to work from 2022 Jul to 2023 Aug to learn industry know-how and cultivate soft skills. Now I'm looking for an suitable onsite job in Taipei or a remote job. Please feel free to contact me if you need any more information.</p>
+              <p>I gain a lot of pleasure in both doing academic research and using coding to solve problems. Therefore, I want to pursue a Master or Ph.D. overseas in Computer Science in 2023 Sep in HCI, Blockchain, and AI.</p>
+              <p>I have finished all the credits I required to graduate before 2022 Jan. Then, I plan to work from 2022 Jul to 2023 Aug to learn industry know-how and cultivate soft skills. Now I'm looking for a suitable onsite job in Taipei or a remote job. Please feel free to contact me if you need any more information.</p>
             </div>
           </div>
           <div class="col-lg-6 col-md-12">
@@ -53,7 +53,7 @@ Vue.component('section-about', {
               </div>
               <div class="row mt-3">
                 <div class="col-sm-4"><strong class="text-uppercase">Other Skills:</strong></div>
-                <div class="col-sm-8">Ethereum, Solidity, IOTA, OpenCerts, Selenium</div>
+                <div class="col-sm-8">GCP, Google APIs, Ethereum, Solidity, IOTA, OpenCerts, Selenium</div>
               </div>
             </div>
           </div>
